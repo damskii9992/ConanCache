@@ -1,0 +1,16 @@
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/lib/pkgconfig/libtiff-4.pc
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/lib/libtiff.6.0.2.dylib
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/lib/libtiff.6.dylib
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/lib/libtiff.dylib
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/include/tiff.h
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/include/tiffio.h
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/include/tiffvers.h
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/include/tiffconf.h
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/lib/cmake/tiff/TiffTargets.cmake
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/lib/cmake/tiff/TiffTargets-release.cmake
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/lib/cmake/tiff/TiffConfigVersion.cmake
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/lib/cmake/tiff/TiffConfig.cmake
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/lib/libtiffxx.6.0.2.dylib
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/lib/libtiffxx.6.dylib
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/lib/libtiffxx.dylib
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libti299e5d0427c16/p/include/tiffio.hxx

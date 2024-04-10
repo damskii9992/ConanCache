@@ -1,0 +1,28 @@
+libxml2_la-chvalid.lo: \
+  /Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libxm4ac999b956cb7/b/src/chvalid.c \
+  /Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libxm4ac999b956cb7/b/src/libxml.h \
+  config.h include/libxml/xmlversion.h \
+  /Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libxm4ac999b956cb7/b/src/include/libxml/xmlexports.h \
+  /Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libxm4ac999b956cb7/b/src/include/libxml/chvalid.h \
+  /Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libxm4ac999b956cb7/b/src/include/libxml/xmlstring.h \
+  /Applications/Xcode_15.0.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stdarg.h \
+  /Applications/Xcode_15.0.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stddef.h \
+  /Applications/Xcode_15.0.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libxm4ac999b956cb7/b/src/libxml.h:
+
+config.h:
+
+include/libxml/xmlversion.h:
+
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libxm4ac999b956cb7/b/src/include/libxml/xmlexports.h:
+
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libxm4ac999b956cb7/b/src/include/libxml/chvalid.h:
+
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libxm4ac999b956cb7/b/src/include/libxml/xmlstring.h:
+
+/Applications/Xcode_15.0.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stdarg.h:
+
+/Applications/Xcode_15.0.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stddef.h:
+
+/Applications/Xcode_15.0.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h:

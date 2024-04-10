@@ -1,0 +1,15 @@
+1712748236
+conaninfo.txt: 5ec1475d8badcb60428746e0c3f79362
+include/openblas/cblas.h: 1a90cee23916e4042622efed38b44c9c
+include/openblas/lapack.h: 7b27a4bbfe9896faac1014c6eba1bdf0
+include/openblas/lapacke.h: 46ccc3a6881be6b4111d51f826e38721
+include/openblas/lapacke_config.h: 0accd5695080cb8d60e03032e7a00768
+include/openblas/lapacke_example_aux.h: 657cb6db754ff2c03e5663d16bd263de
+include/openblas/lapacke_mangling.h: 78a253bca660904aae9b45474fbc88bb
+include/openblas/lapacke_utils.h: b76acd2fc952e4833d7a7be7493e5187
+include/openblas/openblas/lapacke_mangling.h: 78a253bca660904aae9b45474fbc88bb
+include/openblas/openblas_config.h: d51044d173aa926223fd364a5f06b8e0
+lib/libopenblas.0.3.dylib: d604cf5bbf79590e0efbfd24d4cc7b66
+lib/libopenblas.0.dylib: 542d5df73d84c4654a8975ce23cc0e97
+lib/libopenblas.dylib: c8b6369a70f4da1e312b27709b846d74
+licenses/LICENSE: 5adf4792c949a00013ce25d476a2abc0

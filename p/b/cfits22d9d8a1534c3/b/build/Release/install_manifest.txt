@@ -1,0 +1,11 @@
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/cfits22d9d8a1534c3/p/lib/libcfitsio.4.3.1.dylib
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/cfits22d9d8a1534c3/p/lib/libcfitsio.4.dylib
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/cfits22d9d8a1534c3/p/lib/libcfitsio.dylib
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/cfits22d9d8a1534c3/p/lib/cmake/cfitsio-targets.cmake
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/cfits22d9d8a1534c3/p/lib/cmake/cfitsio-targets-release.cmake
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/cfits22d9d8a1534c3/p/include/fitsio.h
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/cfits22d9d8a1534c3/p/include/fitsio2.h
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/cfits22d9d8a1534c3/p/include/longnam.h
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/cfits22d9d8a1534c3/p/lib/pkgconfig/cfitsio.pc
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/cfits22d9d8a1534c3/p/lib/cfitsio-4.3.1/cfitsio-config.cmake
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/cfits22d9d8a1534c3/p/lib/cfitsio-4.3.1/cfitsio-config-version.cmake

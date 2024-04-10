@@ -1,0 +1,32 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/benchfn.c" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/benchfn.c.o" "gcc" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/benchfn.c.o.d"
+  "/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/benchzstd.c" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/benchzstd.c.o" "gcc" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/benchzstd.c.o.d"
+  "/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/datagen.c" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/datagen.c.o" "gcc" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/datagen.c.o.d"
+  "/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/dibio.c" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/dibio.c.o" "gcc" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/dibio.c.o.d"
+  "/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/fileio.c" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/fileio.c.o" "gcc" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/fileio.c.o.d"
+  "/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/fileio_asyncio.c" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/fileio_asyncio.c.o" "gcc" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/fileio_asyncio.c.o.d"
+  "/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/timefn.c" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/timefn.c.o" "gcc" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/timefn.c.o.d"
+  "/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/util.c" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/util.c.o" "gcc" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/util.c.o.d"
+  "/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/zstdcli.c" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/zstdcli.c.o" "gcc" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/zstdcli.c.o.d"
+  "/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/zstdcli_trace.c" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/zstdcli_trace.c.o" "gcc" "programs/CMakeFiles/zstd.dir/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/zstd4cd4cd6676f96/b/src/programs/zstdcli_trace.c.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

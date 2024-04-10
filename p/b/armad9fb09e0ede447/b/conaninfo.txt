@@ -1,0 +1,17 @@
+[settings]
+arch=armv8
+build_type=Release
+compiler=apple-clang
+compiler.cppstd=gnu17
+compiler.libcxx=libc++
+compiler.version=15
+os=Macos
+[options]
+shared=True
+use_arpack=False
+use_blas=framework_accelerate
+use_extern_rng=False
+use_hdf5=True
+use_lapack=framework_accelerate
+use_superlu=False
+use_wrapper=False

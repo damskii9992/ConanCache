@@ -1,0 +1,13 @@
+1712748097
+conaninfo.txt: 63f263b0aa97cfd51d8eef9f94af2fc6
+include/jconfig.h: ca3d9e86de2bbdbe8240edb85ab17843
+include/jerror.h: 8001f7238161aef01a3d4319f5a699c9
+include/jmorecfg.h: 95fd54daf9b8232f743dd938dfa87726
+include/jpegint.h: 3e53e1c92f597589e98ce817ba9ccda1
+include/jpeglib.h: 812bfa504ea21505d8b85f17ca0461af
+include/transupp.h: 3c0199da67384ba4617b899d9a879969
+lib/libjpeg.9.dylib: 2781cbe8b63c4050520e775ddd8c7d92
+lib/libjpeg.dylib: f01184707cc2ed200c1421249b6d9424
+licenses/README: de96746676102c5f56bf544d48917c45
+res/jinclude.h: ecdfb3c4cfca00f00a4344a409cc68a6
+res/transupp.c: 79096a93054bbaa29e7ba745e9892cc2

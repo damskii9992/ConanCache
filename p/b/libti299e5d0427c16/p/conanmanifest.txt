@@ -1,0 +1,14 @@
+1712748322
+conaninfo.txt: daa4554be4b43597a3e555c1629caa81
+include/tiff.h: 3d71c609c2c39efd879a6cd72a39254b
+include/tiffconf.h: 111f70de06bdab96f18c37f3c511984a
+include/tiffio.h: d174111d412fb6d7ee20a3dd46b8715d
+include/tiffio.hxx: 4b2c4756e00efcd192f99de49c833e3f
+include/tiffvers.h: 1a9f52e69d21496eec27dfca03d6fc2b
+lib/libtiff.6.0.2.dylib: bbf3541a478330bde40aac36c72c1180
+lib/libtiff.6.dylib: e4203f62c9528ff0b554d238a14e677e
+lib/libtiff.dylib: 34eebd052ae89f63330918116361a564
+lib/libtiffxx.6.0.2.dylib: 117e2be542b9ec3c0c4ef6ac2c0afb91
+lib/libtiffxx.6.dylib: 6b85a119908882cb266674900236f367
+lib/libtiffxx.dylib: 5f374b0a6a2478cdf7608f9c1621aaed
+licenses/LICENSE.md: a3e32d664d6db1386b4689c8121531c3

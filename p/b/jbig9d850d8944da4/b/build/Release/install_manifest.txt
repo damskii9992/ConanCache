@@ -1,0 +1,4 @@
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/jbig9d850d8944da4/p/lib/libjbig.dylib
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/jbig9d850d8944da4/p/include/jbig.h
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/jbig9d850d8944da4/p/bin/pbmtojbg
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/jbig9d850d8944da4/p/bin/jbgtopbm

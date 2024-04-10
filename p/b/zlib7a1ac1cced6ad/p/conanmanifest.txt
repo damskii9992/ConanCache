@@ -1,0 +1,8 @@
+1712748259
+conaninfo.txt: 63f263b0aa97cfd51d8eef9f94af2fc6
+include/zconf.h: 3b272320b99d236d59e3696d70c22107
+include/zlib.h: fbab4a455b2970c36a44c9464c9625e4
+lib/libz.1.3.1.dylib: dd2dba54d5502798b1a9ee29541f221f
+lib/libz.1.dylib: fc2ee704d31937b4c661e7b9affecc91
+lib/libz.dylib: 0044d7c0810b93bd53ca4dcca599a115
+licenses/LICENSE: a0ee6efb064fd8a9b73d811535c2a55f

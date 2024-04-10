@@ -1,0 +1,14 @@
+prefix=/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/hdf5228868ffdc3ba/p
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include/hdf5
+
+Name: hdf5_hl_cpp
+Description: HDF5 (Hierarchical Data Format 5) Software Library
+Version: 1.14.3
+
+Cflags: -I${includedir}
+Libs: -L${libdir}  -lhdf5_hl_cpp
+Requires: hdf5_hl = 1.14.3
+Libs.private:  
+Requires.private: hdf5_hl = 1.14.3

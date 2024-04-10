@@ -1,0 +1,1 @@
+. "/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/xz_ut8fdebb18b0198/b/build-release/conan/conanbuildenv-release-armv8.sh" && . "/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/xz_ut8fdebb18b0198/b/build-release/conan/conanautotoolstoolchain.sh"

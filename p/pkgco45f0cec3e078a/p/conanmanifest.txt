@@ -1,0 +1,5 @@
+1701538744
+bin/aclocal/pkg.m4: aa7c426863a0fe264c2d4475e32a149c
+bin/pkgconf: 3d11431d09bdf35b7d797de3b7b29320
+conaninfo.txt: a4331a8d4610fbfa0c188d34c08d9a40
+licenses/COPYING: 2214222ec1a820bd6cc75167a56925e0

@@ -1,0 +1,15 @@
+[settings]
+arch=armv8
+build_type=Release
+compiler=apple-clang
+compiler.version=15
+os=Macos
+[options]
+openmp=False
+precision_double=True
+precision_longdouble=True
+precision_quad=False
+precision_single=True
+shared=True
+simd=False
+threads=False

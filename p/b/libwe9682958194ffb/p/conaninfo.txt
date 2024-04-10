@@ -1,0 +1,11 @@
+[settings]
+arch=armv8
+build_type=Release
+compiler=apple-clang
+compiler.version=15
+os=Macos
+[options]
+near_lossless=True
+shared=True
+swap_16bit_csp=False
+with_simd=True

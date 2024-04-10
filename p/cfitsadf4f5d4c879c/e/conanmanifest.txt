@@ -1,0 +1,5 @@
+1703555821
+conandata.yml: 589f16805e480258df1ef3a289499e94
+conanfile.py: 5f1ae6b14fdbfb82103a18c118367038
+export_source/patches/fix-cmake-4.2.0.patch: e17159b48609de82e42038211340e1be
+export_source/patches/windows-use-strtok_s.patch: 172f8dc94dac244c95e0fd53a5ac9e48

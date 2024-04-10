@@ -1,0 +1,5 @@
+1677808320
+conandata.yml: 6e76e7ef8b90703af9c7bae3daab7145
+conanfile.py: 96624978858f48bdfbf050605f8b65dd
+export_source/Win32.Mak: f3202d4e112642a78a1f2c6d39c1119d
+export_source/patches/0001-9e-libjpeg-add-msvc-dll-support.patch: 99502beaed9924fb9f104cafabbb2e73

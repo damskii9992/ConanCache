@@ -1,0 +1,8 @@
+#define TRANSA
+#define ASMNAME _stpsv_TUN
+#define ASMFNAME _stpsv_TUN_
+#define NAME stpsv_TUN_
+#define CNAME stpsv_TUN
+#define CHAR_NAME "stpsv_TUN_"
+#define CHAR_CNAME "stpsv_TUN"
+#include "/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/openbdbaa98934fd50/b/src/driver/level2/tpsv_L.c"

@@ -1,0 +1,9 @@
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/jbig9d850d8944da4/b/build/Release/CMakeFiles/jbig.dir
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/jbig9d850d8944da4/b/build/Release/CMakeFiles/pbmtojbg.dir
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/jbig9d850d8944da4/b/build/Release/CMakeFiles/jbgtopbm.dir
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/jbig9d850d8944da4/b/build/Release/CMakeFiles/edit_cache.dir
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/jbig9d850d8944da4/b/build/Release/CMakeFiles/rebuild_cache.dir
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/jbig9d850d8944da4/b/build/Release/CMakeFiles/list_install_components.dir
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/jbig9d850d8944da4/b/build/Release/CMakeFiles/install.dir
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/jbig9d850d8944da4/b/build/Release/CMakeFiles/install/local.dir
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/jbig9d850d8944da4/b/build/Release/CMakeFiles/install/strip.dir

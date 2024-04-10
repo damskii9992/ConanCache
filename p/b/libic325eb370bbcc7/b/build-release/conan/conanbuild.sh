@@ -1,0 +1,1 @@
+. "/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libic325eb370bbcc7/b/build-release/conan/conanbuildenv-release-armv8.sh" && . "/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libic325eb370bbcc7/b/build-release/conan/conanautotoolstoolchain.sh"

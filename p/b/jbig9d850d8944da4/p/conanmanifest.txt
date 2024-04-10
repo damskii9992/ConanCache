@@ -1,0 +1,7 @@
+1712748063
+bin/jbgtopbm: 9d27d173a3e4472a876cec2a6ff0aa49
+bin/pbmtojbg: 48b03ff0e478009487debfa6bcc0526d
+conaninfo.txt: 3e6be097bce3dee5395a2f342f900cae
+include/jbig.h: 840c1d72677ee3eb7c9827e690ad8708
+lib/libjbig.dylib: a4774693bb74655291b34689d64d8190
+licenses/COPYING: 8ca43cbc842c2336e835926c2166c28b

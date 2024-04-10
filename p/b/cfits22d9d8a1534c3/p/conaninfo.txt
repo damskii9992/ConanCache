@@ -1,0 +1,13 @@
+[settings]
+arch=armv8
+build_type=Release
+compiler=apple-clang
+compiler.version=15
+os=Macos
+[options]
+shared=True
+threadsafe=False
+with_bzip2=False
+with_curl=False
+[requires]
+zlib/1.3.Z

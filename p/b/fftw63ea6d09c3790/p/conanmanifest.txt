@@ -1,0 +1,17 @@
+1712748061
+conaninfo.txt: 2b933c331f8dbaf63343807387b4f027
+include/fftw3.f: 2e023ce668e4a1c9b8e911b643a26531
+include/fftw3.f03: 94adeba6653583b1e2b1c7da1bdaf1f4
+include/fftw3.h: 979e8b1bc51ca0e2393e3d6586a8c36b
+include/fftw3l.f03: 8bce2818ce9ee4a487e3eb8cb16c205e
+include/fftw3q.f03: ffe34bfa765ac42a098119a5d55189dd
+lib/libfftw3.3.6.9.dylib: 7ddb87f587a3194e82fbda4e5b61c786
+lib/libfftw3.3.dylib: 042463171be46838e1e299f50e8c119e
+lib/libfftw3.dylib: e941177e051e1e1ca51c0a578b4cf2cc
+lib/libfftw3f.3.6.9.dylib: 7b0582ee7428bc67c42113b9afadbbca
+lib/libfftw3f.3.dylib: d259fb5d4b4e9e904c5d3c4269e9d8c8
+lib/libfftw3f.dylib: 5785e9fbedb4e9a42c86f519525570f6
+lib/libfftw3l.3.6.9.dylib: 1c9cb53cefd67157725d98f5a5a2599e
+lib/libfftw3l.3.dylib: 9a119d00f8263bfa000f5e10798399ea
+lib/libfftw3l.dylib: 43f3120e9e22edc7a5f9ed2ff176e8a8
+licenses/COPYRIGHT: 96792cb77e04bd5788a36fdc2ff74650

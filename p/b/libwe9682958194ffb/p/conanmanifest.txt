@@ -1,0 +1,26 @@
+1712748106
+conaninfo.txt: 4b5d4b1e6710e434b0ff9e38410d4049
+include/webp/decode.h: 0c184ebf60333c5650823be1795331d1
+include/webp/demux.h: 5fc0bf84c0a93a2ebbcc432f76b39dcf
+include/webp/encode.h: 86d494680aadc831975159afeec19bc9
+include/webp/mux.h: dedafed77ebeb347f8a1bf86d8fb56e1
+include/webp/mux_types.h: f6ee710c04662910d3455580ace07758
+include/webp/sharpyuv/sharpyuv.h: 4024f819c691a491ee7a142cccaa790e
+include/webp/sharpyuv/sharpyuv_csp.h: f0c58782a98f8fa0fd12d3c24bb7af17
+include/webp/types.h: b9925819581c2569db3164b4db2efdd0
+lib/libsharpyuv.0.0.1.dylib: d4d1231e021337423760add6065a39cd
+lib/libsharpyuv.0.dylib: f6ede83bec2524d3c073e30edc9959df
+lib/libsharpyuv.dylib: 12829bdfb0e58e9c9300446a1451da9a
+lib/libwebp.7.1.8.dylib: 47bc1dbc9ef959c7b0c0dc0a171c3f38
+lib/libwebp.7.dylib: 440b8f4c1143df154c4aef3eb36eec2d
+lib/libwebp.dylib: ade1645374cbd9bfeb9deba5fddf5480
+lib/libwebpdecoder.3.1.8.dylib: d87f0f0f097c4d0733527574699ceeaa
+lib/libwebpdecoder.3.dylib: 123731baac2b9a7787c0a173198d0da9
+lib/libwebpdecoder.dylib: 1d1462618112cd6c0021578157ecbbf4
+lib/libwebpdemux.2.0.14.dylib: 7cfe3816839dce6f965948f52e68502c
+lib/libwebpdemux.2.dylib: 1cac49fca1f872943d61ce5749fb40a5
+lib/libwebpdemux.dylib: 1b963b2e61df8f21fab94bbc8bda6037
+lib/libwebpmux.3.0.13.dylib: 63878eba08a48c29f4c50d154c1c821b
+lib/libwebpmux.3.dylib: ee39efb4559b05f31b5b0eb935359b06
+lib/libwebpmux.dylib: 56482c1e81079abc2afb07b5254b0787
+licenses/COPYING: 6e8dee932c26f2dab503abf70c96d8bb

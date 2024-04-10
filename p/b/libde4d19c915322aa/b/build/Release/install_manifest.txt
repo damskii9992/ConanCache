@@ -1,0 +1,8 @@
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libde4d19c915322aa/p/lib/libdeflate.0.dylib
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libde4d19c915322aa/p/lib/libdeflate.dylib
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libde4d19c915322aa/p/include/libdeflate.h
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libde4d19c915322aa/p/lib/pkgconfig/libdeflate.pc
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libde4d19c915322aa/p/lib/cmake/libdeflate/libdeflate-targets.cmake
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libde4d19c915322aa/p/lib/cmake/libdeflate/libdeflate-targets-release.cmake
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libde4d19c915322aa/p/lib/cmake/libdeflate/libdeflate-config.cmake
+/Users/runner/_work/imagingsuite/imagingsuite/Cache/p/b/libde4d19c915322aa/p/lib/cmake/libdeflate/libdeflate-config-version.cmake
