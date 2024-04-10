@@ -1,0 +1,7 @@
+1677108180
+bin/jbgtopbm: 629abf043ab5d0a72f0a84312340b991
+bin/pbmtojbg: fa1c0c0a1b926e6da5b209d2ccf5b116
+conaninfo.txt: 208e14f3a4b40ec8ac3bbbfa789bf1af
+include/jbig.h: 840c1d72677ee3eb7c9827e690ad8708
+lib/libjbig.so: 73cad52914e9819d84895632daf71fff
+licenses/COPYING: 8ca43cbc842c2336e835926c2166c28b

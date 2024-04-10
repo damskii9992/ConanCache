@@ -1,0 +1,6 @@
+1694914687
+conaninfo.txt: b95b76a998e68cc0e6eff22b7032e4a0
+include/libdeflate.h: 0ae8d1b0a3891b1ae0bfe03d911479be
+lib/libdeflate.so: 2fb3bfec354123306697aeb81f5ee45c
+lib/libdeflate.so.0: 41e182f6e8950bdface00eff9fc982f1
+licenses/COPYING: 7b6977026437092191e9da699ed9f780

@@ -1,0 +1,9 @@
+1703556236
+conaninfo.txt: b53665592199473638303dee4b894539
+include/fitsio.h: 6be34766c4987056128095a798d4e140
+include/fitsio2.h: aa61c8e8a03fb9ced2282b2080f05df5
+include/longnam.h: 653ddc1649d35744b49011585232d4a5
+lib/libcfitsio.so: 7f45ce1c9e2d0052a06e0171f20a246c
+lib/libcfitsio.so.4: 00dfd487c4ccbb99240f9ec0b0748548
+lib/libcfitsio.so.4.3.1: f8d8dd16d172c8448d1129c43976c8ea
+licenses/License.txt: 77856e8a5492e2119200b3401a8e7966

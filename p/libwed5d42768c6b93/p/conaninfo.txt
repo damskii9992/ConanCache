@@ -1,0 +1,11 @@
+[settings]
+arch=x86_64
+build_type=Release
+compiler=gcc
+compiler.version=11
+os=Linux
+[options]
+near_lossless=True
+shared=True
+swap_16bit_csp=False
+with_simd=True

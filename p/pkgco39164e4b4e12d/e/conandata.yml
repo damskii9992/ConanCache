@@ -1,0 +1,7 @@
+patches:
+  2.1.0:
+  - patch_file: patches/2.1.0-0001-PKG_CONF_PATH-allow-colon+semicolon-separator.patch
+sources:
+  2.1.0:
+    sha256: 266d5861ee51c52bc710293a1d36622ae16d048d71ec56034a02eb9cf9677761
+    url: https://distfiles.ariadne.space/pkgconf/pkgconf-2.1.0.tar.xz

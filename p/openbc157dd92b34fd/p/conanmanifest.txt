@@ -1,0 +1,15 @@
+1704085083
+conaninfo.txt: c73eeb57ffa2301f29685f803e2b71e9
+include/openblas/cblas.h: 1a90cee23916e4042622efed38b44c9c
+include/openblas/lapack.h: 7b27a4bbfe9896faac1014c6eba1bdf0
+include/openblas/lapacke.h: 46ccc3a6881be6b4111d51f826e38721
+include/openblas/lapacke_config.h: 0accd5695080cb8d60e03032e7a00768
+include/openblas/lapacke_example_aux.h: 657cb6db754ff2c03e5663d16bd263de
+include/openblas/lapacke_mangling.h: 78a253bca660904aae9b45474fbc88bb
+include/openblas/lapacke_utils.h: b76acd2fc952e4833d7a7be7493e5187
+include/openblas/openblas/lapacke_mangling.h: 78a253bca660904aae9b45474fbc88bb
+include/openblas/openblas_config.h: c9abf1141293464e2d1e51faa6af6564
+lib/libopenblas.so: 3f4a9596bd524b4eee4afe2f2de99740
+lib/libopenblas.so.0: b871419598dbbcd9ad9b76f9f072a76d
+lib/libopenblas.so.0.3: 782a94b25132d288a3ffc53ad31c14cb
+licenses/LICENSE: 5adf4792c949a00013ce25d476a2abc0

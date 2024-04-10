@@ -1,0 +1,9 @@
+patches:
+  12.6.4:
+  - patch_description: Add find_package statements to inject conan dependencies
+    patch_file: patches/0004-Guard-dependency-discovery-12.6.x.patch
+    patch_type: conan
+sources:
+  12.6.4:
+    sha256: eb7f243ffc32f18324bc7fa978d0358637e7357ca7836bec55b4eb56e9749380
+    url: https://sourceforge.net/projects/arma/files/armadillo-12.6.4.tar.xz

@@ -1,0 +1,26 @@
+1694807442
+conaninfo.txt: 3eeb6fe65dea598ce34eda975da648ca
+include/webp/decode.h: 0c184ebf60333c5650823be1795331d1
+include/webp/demux.h: 5fc0bf84c0a93a2ebbcc432f76b39dcf
+include/webp/encode.h: 86d494680aadc831975159afeec19bc9
+include/webp/mux.h: dedafed77ebeb347f8a1bf86d8fb56e1
+include/webp/mux_types.h: f6ee710c04662910d3455580ace07758
+include/webp/sharpyuv/sharpyuv.h: 4024f819c691a491ee7a142cccaa790e
+include/webp/sharpyuv/sharpyuv_csp.h: f0c58782a98f8fa0fd12d3c24bb7af17
+include/webp/types.h: b9925819581c2569db3164b4db2efdd0
+lib/libsharpyuv.so: 6e0f321fd6ae8d6bdd979d4b7866bcd1
+lib/libsharpyuv.so.0: 746e63aac5447553b6f3ebead5be8a31
+lib/libsharpyuv.so.0.0.1: a3c33f3fc32a863fe6ae42cdddba230e
+lib/libwebp.so: d3ea40beab69aa83519e7495f396b672
+lib/libwebp.so.7: df1206152aa2ee30f6390b2056482782
+lib/libwebp.so.7.1.8: 4aa0b0821ee2d5b7d5a142182ffe763f
+lib/libwebpdecoder.so: ab2ff0b1c2036b77097a52ade0c8186b
+lib/libwebpdecoder.so.3: a04a9ae4187cfe6408bce16a7701d54e
+lib/libwebpdecoder.so.3.1.8: 0a547b675c715706083d000cf31379ac
+lib/libwebpdemux.so: 05decc5139bc2f0cd3815fe9809408a1
+lib/libwebpdemux.so.2: 7d85a8b9089e4f9b30885a99eb80647d
+lib/libwebpdemux.so.2.0.14: 99f6c566f7573f009897e523409b48df
+lib/libwebpmux.so: a99c4d6748fe99d02dbdac9905744004
+lib/libwebpmux.so.3: 74563b037379277c9e533785a3d0bd50
+lib/libwebpmux.so.3.0.13: 5bfb9c2e61123bbcc68054388d05a9ec
+licenses/COPYING: 6e8dee932c26f2dab503abf70c96d8bb

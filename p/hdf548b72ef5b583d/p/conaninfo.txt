@@ -1,0 +1,17 @@
+[settings]
+arch=x86_64
+build_type=Release
+compiler=gcc
+compiler.cppstd=17
+compiler.libcxx=libstdc++11
+compiler.version=11
+os=Linux
+[options]
+enable_cxx=True
+enable_unsupported=False
+hl=True
+parallel=False
+shared=True
+with_zlib=True
+[requires]
+zlib/1.3.Z

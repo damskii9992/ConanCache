@@ -1,0 +1,4 @@
+1704520533
+conandata.yml: ba9c2bb391f16b12dbd85b1d6fa58648
+conanfile.py: 21c73f678a9405ff3c1b16274ecb90cc
+export_source/patches/0004-Guard-dependency-discovery-12.6.x.patch: 2a8e17b83a8a1d2e93b3c51bc0c36762
